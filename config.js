@@ -5,15 +5,15 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích em <33',
-    btnNo: 'Không, Em gái à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
-    btnReply: 'Gửi cho em <3',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, anh à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Hôm nào đi ăn với em nhéee hoàng tử.',
+    mess: 'anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Hôm nào đi ăn với em nhéee công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100010516419282' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
